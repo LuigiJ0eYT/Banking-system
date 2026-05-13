@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bank Account Simulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3deb77395bb652cd23fe0d4e0f14728ad29c4bd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bank Account Simulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bank Account Simulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
