@@ -1,0 +1,14 @@
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\bin\Debug\net10.0\Bank Account Simulator.exe
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\bin\Debug\net10.0\Bank Account Simulator.deps.json
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\bin\Debug\net10.0\Bank Account Simulator.runtimeconfig.json
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\bin\Debug\net10.0\Bank Account Simulator.dll
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\bin\Debug\net10.0\Bank Account Simulator.pdb
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\obj\Debug\net10.0\Bank Account Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\obj\Debug\net10.0\Bank Account Simulator.AssemblyInfoInputs.cache
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\obj\Debug\net10.0\Bank Account Simulator.AssemblyInfo.cs
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\obj\Debug\net10.0\Bank Account Simulator.csproj.CoreCompileInputs.cache
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\obj\Debug\net10.0\Bank Account Simulator.dll
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\obj\Debug\net10.0\refint\Bank Account Simulator.dll
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\obj\Debug\net10.0\Bank Account Simulator.pdb
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\obj\Debug\net10.0\Bank Account Simulator.genruntimeconfig.cache
+C:\Users\jdfre\source\repos\Bank Account Simulator\Bank Account Simulator\obj\Debug\net10.0\ref\Bank Account Simulator.dll
