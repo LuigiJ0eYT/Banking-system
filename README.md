@@ -9,7 +9,7 @@ This is a C# project that I made to increase my knowledge of using Object Orient
 
 ## How to Run
 1. Clone the repository:
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/LuigiJ0eYT/Banking-system)
+   git clone [https://github.com/LuigiJ0eYT/Banking-system]
 
 2. Open the solution file in Visual Studio:
    BankAccountSimulator.sln
